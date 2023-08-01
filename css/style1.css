@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: aquamarine;
+}
+nav ul {
+    list-style: none; 
+    margin: auto; 
+    padding: 0;
+    text-align: center; 
+  }
+  
+nav ul li {
+    display: inline-block; 
+  }
+  
+nav ul li a {
+    display: block; 
+    padding: 10px; 
+  }
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+  text-align: center;
+  margin-top: 0px;
+  background-color: darkgoldenrod;
+  font-size: 50px;
+}
+
+
